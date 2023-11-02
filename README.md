@@ -19,7 +19,20 @@ Please contribute:
   documentation, etc.
 * Anything else that you believe would be of widespread use. 
 
-# License
+## Why is documentation important?
+
+Documentation is a force multiplier, and community maintained
+documentation is doubly so.
+
+Without documentation, people trying to use or modify a system have to
+wade through large numbers of sources and waste time. When new things
+people discover aren't documented in a place others can find, those
+things are lost, or others spend additional time rediscovering them.
+
+Well documented systems get lots of users and lots of
+improvements. Help us improve this document.
+
+## License
 
 This repository, and anything in it that is not explicitly marked
 otherwise, is under a [CC BY-SA 4.0
